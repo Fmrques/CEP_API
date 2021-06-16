@@ -1,3 +1,5 @@
+#On your Windows terminal, type: pip install requests
+#That's the only library required.
 import requests 
  
 
